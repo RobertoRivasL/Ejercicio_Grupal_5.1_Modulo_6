@@ -70,16 +70,16 @@ El entregable debe ser un proyecto Java Web comprimido en un archivo ZIP o RAR.
 ![Static Badge](https://img.shields.io/badge/Ejercicio%20Grupal%205.1%20-%20Modulo%206%20-%20blue?labelColor=abcdef&cacheSeconds=3200)
 
 
-![GitHub last commit](https://img.shields.io/badge/Integrantes%20%3A%20-%20%237E7E73?cacheSeconds=7200
-) ![GitHub code size in bytes](https://img.shields.io/badge/Bastian%20Mariangel%20-%20%2350CAC0?cacheSeconds=7200
-)
-![GitHub last commit](https://img.shields.io/badge/Ivan%20Mieres%20-%20%23D8DA31?cacheSeconds=7200
-)
-![GitHub last commit](https://img.shields.io/badge/Patricio%20Bonnin%20-%20%23E87215?cacheSeconds=7200
-)
-![GitHub last commit](https://img.shields.io/badge/Roberto%20Rivas%20-%20%23F70910?cacheSeconds=7200
-)
-
+## **Integrantes :**
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Angelica%20-%20Romero%20-%20violet?cacheSeconds=3200" alt="Texto alternativo 1"></td>
+    <td><img src="https://img.shields.io/badge/Bastian%20-%20Mariangel%20-%20red?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Ivan%20-%20Mieres%20-%20green?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Patricio%20-%20Bonnin%20-%20brown?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+    <td><img src="https://img.shields.io/badge/Roberto%20-%20Rivas%20-%20blue?cacheSeconds=3200" alt="Texto alternativo 2"></td>
+  </tr>
+</table>
 
 ![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/bed278ea-0456-4be9-a6cd-87c4b33b0458)
 ![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/b3ddf97d-1524-48b3-9230-cc2db5e7c4d0)
