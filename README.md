@@ -66,3 +66,38 @@ El entregable debe ser un proyecto Java Web comprimido en un archivo ZIP o RAR.
 | Recursos Bibliográficos:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | <p></p><p>**Spring MVC: Configuración**</p><p><https://www.javatutoriales.com/2015/12/spring-mvc-parte-1-configuracion.html></p><p></p><p>**Introducción a MVC en Spring**</p><p><http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion03-apuntes.html></p><p></p><p>**Crear un proyecto MVC con Spring Tool Suite (STS)**</p><p><https://www.youtube.com/watch?v=eMG9qi061D8></p><p></p><p>**Spring MVC - Cómo incluir archivos CSS o JS en una página JSP**</p><p><https://mkyong.com/spring-mvc/spring-mvc-how-to-include-js-or-css-files-in-a-jsp-page/></p><p></p><p>**Log con log4j**</p><p><https://www.es.w3ki.com/spring/logging_with_log4j.html></p><p></p><p>**Spring Crud con JDBC Template y Oracle**</p><p><https://www.javainterviewpoint.com/spring-crud-example-jdbctemplate/></p> |
 
+
+![Static Badge](https://img.shields.io/badge/Ejercicio%20Grupal%205.1%20-%20Modulo%206%20-%20blue?labelColor=abcdef&cacheSeconds=3200)
+
+
+![GitHub last commit](https://img.shields.io/badge/Integrantes%20%3A%20-%20%237E7E73?cacheSeconds=7200
+) ![GitHub code size in bytes](https://img.shields.io/badge/Bastian%20Mariangel%20-%20%2350CAC0?cacheSeconds=7200
+)
+![GitHub last commit](https://img.shields.io/badge/Ivan%20Mieres%20-%20%23D8DA31?cacheSeconds=7200
+)
+![GitHub last commit](https://img.shields.io/badge/Patricio%20Bonnin%20-%20%23E87215?cacheSeconds=7200
+)
+![GitHub last commit](https://img.shields.io/badge/Roberto%20Rivas%20-%20%23F70910?cacheSeconds=7200
+)
+
+
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/bed278ea-0456-4be9-a6cd-87c4b33b0458)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/b3ddf97d-1524-48b3-9230-cc2db5e7c4d0)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/dff77f78-318c-440b-94ca-f69cba822a80)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/13dc8e1e-ced1-4ab3-8a02-1efd2b5d3384)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/15fc0b6f-64eb-4d44-adcc-cf0b158f4a87)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/04d50de1-9755-47e7-aac7-fd73d181dee1)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/3e6a1f8c-c6d2-426c-8590-1d04f6943eff)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/74a8a852-5fff-47d3-816f-e6173d4aad8b)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/96d88a1d-3cd9-4c53-94b8-286d1d3009ea)
+![image](https://github.com/RobertoRivasL/Ejercicio_Grupal_5.1_Modulo_6/assets/131497718/c23a8ba0-b287-43ca-a08d-3817347a7c6a)
+
+
+
+
+
+
+
+
+
+
